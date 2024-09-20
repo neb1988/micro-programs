@@ -1,0 +1,9 @@
+{
+  "name": "vuln-method-extracted-to-static-property-of-object-reachable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-serialize": "^0.0.4",
+    "node-serializer": "^0.0.1"
+  }
+}
